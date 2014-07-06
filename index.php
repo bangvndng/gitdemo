@@ -1,3 +1,3 @@
 Hello Git
 
-this is the code for hot fix
+this was made for the hot fix 2
